@@ -35,7 +35,6 @@
   </a>
 <br/>
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![github stats](https://github-readme-stats.vercel.app/api?username=HimashaChinthani&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sheharagamage&theme=tokyonight) |
 | --- | --- |
