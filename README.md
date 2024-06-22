@@ -29,7 +29,7 @@
 
 - Tools
 <p align="left">
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,powershell,arduino,linux,ps,vscode,discord,visualstudio,wordpress,stackoverflow" />
   </a>
