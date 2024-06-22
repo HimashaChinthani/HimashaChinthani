@@ -35,6 +35,6 @@
   </a>
 <br/>
 <p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=HimashaChinthani&theme=gotham"/>
-
+<img src="images.jpg">
 
 
