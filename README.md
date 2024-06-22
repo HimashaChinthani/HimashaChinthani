@@ -34,10 +34,7 @@
     <img src="https://skillicons.dev/icons?i=git,powershell,arduino,linux,ps,vscode,discord,visualstudio,wordpress,stackoverflow" />
   </a>
 <br/>
-## Github Activity ✔
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HimashaChinthani&theme=monokai)
-
-[![](https://github-readme-streak-stats.herokuapp.com?user=HimashaChinthani&theme=soft-green)](https://git.io/streak-stats)
-
+<p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=HimashaChinthani&theme=gotham"/>
+<img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+<!--<img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />-->
+<img width="45%" align="right" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Pic"/>
