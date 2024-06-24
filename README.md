@@ -34,7 +34,7 @@
 <br/>
 
 
-| ![github stats](https://github-readme-stats.vercel.app/api?username=HimashaChinthani&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sheharagamage&theme=tokyonight) |
+| ![github stats](https://github-readme-stats.vercel.app/api?username=HimashaChinthani&show_icons=true&theme=tokyonight) | ![ HimashaChinthani iGitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HimashaChinthani&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimashaChinthani&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=HimashaChinthani&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
